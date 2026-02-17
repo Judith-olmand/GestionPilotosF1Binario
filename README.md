@@ -177,6 +177,6 @@ El archivo incluye los pilotos de la temporada 2025 de F1 con sus escuderías ac
 
 Proyecto educativo para aprendizaje de Java y manejo de archivos binarios.
 
-## 👤 Autor
+## 👤 Autor --> Judith Olmedo Andrés
 
 Proyecto desarrollado como ejercicio de programación en Java con temática de Fórmula 1.
